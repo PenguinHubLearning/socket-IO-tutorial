@@ -1,0 +1,29 @@
+{
+  "name": "socket-io-tutorial",
+  "version": "1.0.0",
+  "description": "socket.IO tutorial ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamdimiled/socket-IO-tutorial.git"
+  },
+  "keywords": [
+    "socket",
+    "socket.io",
+    "websocket",
+    "chat-app",
+    "nodeJS"
+  ],
+  "author": "hamdy miled",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamdimiled/socket-IO-tutorial/issues"
+  },
+  "homepage": "https://github.com/hamdimiled/socket-IO-tutorial#readme",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
